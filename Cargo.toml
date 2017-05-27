@@ -1,0 +1,7 @@
+[package]
+name = "aclog"
+version = "0.1.0"
+authors = ["Christoffer Hjalmarsson <b.christoffer.hjalmarsson@gmail.com>"]
+
+[dependencies]
+clap = "~2.24.2"
